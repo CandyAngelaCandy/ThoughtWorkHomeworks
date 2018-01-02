@@ -3,7 +3,7 @@
    第一课主要从文化，敏捷方法，演讲技巧和反馈四个方面进行讲解，以下我将对这四个方面的所学所思进行总结。
                                                      
 
- ##文化 ##
+## 文化 ##
 
 
 
@@ -52,7 +52,7 @@ scrum 即为这样一种方式，大家一拥而上，团队是球员，球是产品目标，人员环环相扣，围
 
 ![这里写图片描述](http://img.blog.csdn.net/20180102170023507?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2h1aWRpbmFvemhvbmd5YW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-----------
+
 
 演讲技巧
 ----
@@ -83,8 +83,6 @@ scrum 即为这样一种方式，大家一拥而上，团队是球员，球是产品目标，人员环环相扣，围
 ![这里写图片描述](http://img.blog.csdn.net/20180102173720719?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2h1aWRpbmFvemhvbmd5YW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
                                       <div align="center">如何进行有效的演讲</div>  
                              
-
-----------
 
 
 反馈
