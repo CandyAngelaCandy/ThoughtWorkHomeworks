@@ -1,13 +1,10 @@
-思沃大讲堂第一课总结
-==========
-
-
+ # <p align=center>思沃大讲堂第一课总结</p> #
 
    第一课主要从文化，敏捷方法，演讲技巧和反馈四个方面进行讲解，以下我将对这四个方面的所学所思进行总结。
                                                      
 
-文化
---
+ ##文化 ##
+
 
 
  - **做正确的事情**：自我驱动去做一些对公司及个人成长有益的事情。
@@ -28,8 +25,8 @@
  随着软件开发的持续发展，瀑布流、螺旋模型、快速迭代等各种各样的软件开发流程如雨后春笋般涌现。虽然不断变化和完善，但互联网的加速发展让传统方法显得笨重，难以快速适应变化。于是，敏捷开发应运而生。
  
  敏捷主要是为了提高项目开发的效率，减少多次打补丁。敏捷开发的宣言如下：
-
-![这里写图片描述](http://img.blog.csdn.net/20180102164714282?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2h1aWRpbmFvemhvbmd5YW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+ 
+![这里写图片描述](http://img.blog.csdn.net/20180102202159788?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2h1aWRpbmFvemhvbmd5YW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 在我们实际做敏捷转型的过程中，左右两项通常情况下也是共存的，不过我们更重视左项。
 
