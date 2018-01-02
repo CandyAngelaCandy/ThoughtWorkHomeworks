@@ -1,13 +1,13 @@
-#思沃大讲堂第一课总结
+思沃大讲堂第一课总结
+==========
 
 
-  
+
    第一课主要从文化，敏捷方法，演讲技巧和反馈四个方面进行讲解，以下我将对这四个方面的所学所思进行总结。
                                                      
 
-----------
-
-##文化
+文化
+--
 
 
  - **做正确的事情**：自我驱动去做一些对公司及个人成长有益的事情。
@@ -19,10 +19,9 @@
 
 ![这里写图片描述](http://img.blog.csdn.net/20180102173938242?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2h1aWRpbmFvemhvbmd5YW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
                               <div align="center"> 以小组为单位展现一个文化主题</div>
-                                        
-----------
-
-##敏捷方法
+                                       
+敏捷方法
+----
 
  今年6月份有幸参加了TW的open day活动，进行了为期两天的结对编程活动，了解到TW在软件开发中非常注重敏捷开发和TDD。
  
@@ -56,10 +55,10 @@ scrum 即为这样一种方式，大家一拥而上，团队是球员，球是产品目标，人员环环相扣，围
 
 ![这里写图片描述](http://img.blog.csdn.net/20180102170023507?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2h1aWRpbmFvemhvbmd5YW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-
 ----------
 
-##演讲技巧
+演讲技巧
+----
 
 从以下几个方面进行有效的表达
 
@@ -91,7 +90,8 @@ scrum 即为这样一种方式，大家一拥而上，团队是球员，球是产品目标，人员环环相扣，围
 ----------
 
 
-##反馈
+反馈
+--
 
 反馈是TW文化中最有特色的一个方面，通过自由平等地向周围人提意见，可促使大家共同快速进步。俗话说：“当局者迷，旁观者清”。结对编程就是反馈文化的一个投影，一个coder，一个观察者，彼此之间互相指出问题，共同高效地完成一个任务。
 
